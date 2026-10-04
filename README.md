@@ -23,7 +23,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
 | Programming Language | • C/C++<br>• JavaScript<br>• PHP |
 | Arduino Library | • ESP8266WiFi (default)<br>• ThingSpeak by MathWorks (Version: 2.0.1)<br>• DHT_sensor_library by Adafruit (Version: 1.4.6)<br>• CTBot by Stefano Ledda (Version: 2.1.9)<br>• ArduinoJson by Benoit Blanchon (Version: 6.19.4) |
 | Sensor | DHT22: Air Temperature & Humidity (x1) |
-| Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• NodeMCU V3 ESP8266 Lolin Enclosure (x1)<br>• DHT11 Enclosure (x1)<br>• Adaptor DC 5V (x1) |
+| Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• NodeMCU V3 ESP8266 Lolin Enclosure (x1)<br>• DHT22 Enclosure (x1)<br>• Adaptor DC 5V (x1) |
 
 <br><br>
 
